@@ -1,10 +1,11 @@
 # Лабораторна робота №6 # 
 
 ## Advanced ## 
-
+## Student: David Burlaka
+## Group: IO-83
 ### Встановлення та видалення модулів hello1 та hello2. ###  
-З параметром count=5. 
-При видаленні hello1 бачимо час виконання для кожного виводу. 
+Parameter count=5. 
+After rmmod hello1 we see execution time for every output. 
 
 ![Image alt](https://github.com/davidburlaka/Lab6_AK/blob/main/1.png) 
 
